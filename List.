@@ -1,0 +1,6 @@
+TensorFlow v1.13.0 (As of now acccording to tensorflow.org website)
+    --> Driver v 410.x or higher
+    --> CUDA 10.0 / 10.0.1
+    --> cuDNN 7.4.1
+    
+TensorFlow v1.12.0
